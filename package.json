@@ -1,6 +1,6 @@
 {
   "name": "gulp-includer",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "A plugin for Gulp",
   "keywords": [
     "gulpplugin"
@@ -24,7 +24,7 @@
   "dependencies": {
     "through2": "*",
     "gulp-util": "~2.2.0",
-    "includer": "0.0.3"
+    "includer": "0.1.0"
   },
   "devDependencies": {
     "mocha": "*",
